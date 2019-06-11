@@ -11,6 +11,8 @@ import com.imooc.miaosha.redis.RedisService;
 import com.imooc.miaosha.result.Result;
 import com.imooc.miaosha.service.MiaoshaUserService;
 
+import java.util.Date;
+
 @Controller
 @RequestMapping("/user")
 public class UserController {
